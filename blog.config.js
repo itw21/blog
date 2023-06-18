@@ -2,7 +2,7 @@ const BLOG = {
   title: '在水中',
   author: '在水中',
   email: 'liu211518@gmail.com',
-  link: 'https://okjk.co/KyuiHP',
+  link: 'https://web.okjike.com/u/a019cb19-804a-42d3-915b-fa95640f57b4',
   description: 'Change and Challenge!',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
