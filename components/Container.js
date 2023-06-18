@@ -16,7 +16,7 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
     ...customMeta
   }
   return (
-    <div>
+      <div className={`font-lxgw`}>
       <Head>
         <title>{meta.title}</title>
         {/* <meta content={BLOG.darkBackground} name="theme-color" /> */}
