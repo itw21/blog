@@ -131,7 +131,7 @@ export default function NotionRenderer (props) {
       <style jsx global>
         {`
         .notion {
-          --notion-font: ${Font};
+          --notion-font: ${font};
         }
         `}
       </style>
